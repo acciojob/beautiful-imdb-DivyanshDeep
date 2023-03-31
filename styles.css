@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	height: 80vh;
+	width:100vw;
+	opacity: blue;
+	position: inline-block;
+}
+.movieDetail{
+	position: absolute;
+	top: 350px;
+	width: 50vw;
+	text-align: center;
+	font-size: 16px;
+	color: white
+	
+}
