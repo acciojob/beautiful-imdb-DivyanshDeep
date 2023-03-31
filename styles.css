@@ -3,8 +3,7 @@
 .moviePic{
 	height: 80vh;
 	width:100vw;
-	opacity: blue;
-	
+	opacity: 0.8;
 }
 .movieDetail{
 	position: absolute;
